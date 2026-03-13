@@ -27,6 +27,7 @@ func _ready() -> void:
 	else:
 		parent_directory = OS.get_executable_path().get_base_dir() + "/"
 	get_window().title = "Dear ImGui File Dialogs"
+	OS.set_environment("IMGUI_DIALOG_CAPTION", get_window().title)
 	# Select a Custom Theme for All Dialogs 
 	# Classic=-1, Dark=0, Light=1, Custom=2
 	# Example themes -1 to 1 are from ImGui
