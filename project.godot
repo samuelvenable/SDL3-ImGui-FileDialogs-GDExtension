@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="IMFileDialogs"
+config/name="SDL3-ImGui-FileDialogs"
 run/main_scene="uid://dj07ytal2ikv1"
 config/features=PackedStringArray("4.4", "Forward Plus")
 
