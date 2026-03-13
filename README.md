@@ -1,5 +1,5 @@
 # SDL3 ImGui File Dialogs Godot Engine Extension
-Create Dear ImGui Dialog Boxes, (Both File Selection and Beyond), in Redot Engine
+Create Dear ImGui Dialog Boxes, (Both File Selection and Beyond), in Godot Engine
 
 ![screenshot0.png](screenshots/screenshot0.png)
 
